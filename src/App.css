@@ -1,4 +1,7 @@
+* {
+  font-family: 'Poppins';
+}
 .App{
   text-align: center;
-  height: 100vh;
 }
+
